@@ -1,0 +1,11 @@
+<resources>
+<!--    <string name="app_name">Жуки</string>-->
+    <string name="app_name">Жуки</string>
+<!--    <string name="start_the_game">Start the game!</string>-->
+    <string name="start_the_game">Начни игру!</string>
+<!--    <string name="destroy_all_bugs">Destroy all BUGS!!!</string>-->
+    <string name="destroy_all_bugs">Уничтожь всех жуков!!!</string>
+<!--    <string name="start">START</string>-->
+    <string name="start">НАЧАТЬ</string>
+    <string name="record">Рекорд:  </string>
+</resources>
